@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ben%20Webb-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ben-victor-webb/) <!-- Add your LinkedIn URL -->
 [![Email](https://img.shields.io/badge/Email-ben.webb49939@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:ben.webb49939@gmail.com)
 
-**Multithreading enthusiast · Kalman filter tinkerer · VR explorer · Distinction-level MSc grad**
+**C++ & Python Enthusiast · VR explorer · Distinction-level MSc grad**
 
 I'm a software engineer who loves building systems that are both **reliable** and **performant** — from UDP-based image processing servers to VR mindfulness forests with 26 real users. I graduated with a **Distinction** in my MSc Computer Science (74.3 average) and a **2:1 with Honours** in my BSc, and I'm now seeking graduate software engineering roles where I can ship code that matters.
 
