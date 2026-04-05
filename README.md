@@ -21,7 +21,7 @@ I'm a software engineer who loves building systems that are both **reliable** an
 ### ⚡ Fun facts ...
 
 - I'm a trained Fire Warden with health and safety training and was the sole on-call for 200+ residents.
-- I earned the *Campaigns Network Fundraiser of the Year* award in 2020 and received the Lincoln Award in 2025 (more details can be found on my LinkedIn).
+- I earned the *Campaigns Network Fundraiser of the Year* award in 2020 and received the *Lincoln Award* in 2025 (more details can be found on my LinkedIn).
 - I play piano, board games, and enjoy health and fitness at the gym.
 - My GCSEs include grades 9, 8, 6, A*–C, and A levels A*-B — but my proudest achievement? Having a plaque in my school/sixth form as recognition for these achievements.
 
